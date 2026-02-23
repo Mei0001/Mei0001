@@ -28,17 +28,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mei0001&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mei0001&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mei0001&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mei0001&theme=tokyonight&utcOffset=9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mei0001&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mei0001&theme=github_dark&utcOffset=9" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mei0001&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mei0001&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mei0001&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mei0001&theme=github_dark" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Mei0001&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Mei0001&theme=onedark&no-frame=true&column=7" />
 </p>
 
 ---
@@ -54,5 +54,9 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mei0001/Mei0001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mei0001/Mei0001/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mei0001/Mei0001/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Mei0001/Mei0001/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
 </p>
