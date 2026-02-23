@@ -46,7 +46,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mei0001&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Mei0001&theme=tokyonight&no-frame=true&column=7" />
 </p>
 
 ---
