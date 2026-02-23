@@ -43,14 +43,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Mei0001&theme=onedark&no-frame=true&column=7" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
