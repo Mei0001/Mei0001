@@ -46,7 +46,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mei0001&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Mei0001&theme=tokyonight&no-frame=true&column=7" />
 </p>
 
 ---
@@ -54,5 +54,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mei0001/Mei0001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Mei0001/mei/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
